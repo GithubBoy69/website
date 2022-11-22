@@ -1,0 +1,47 @@
+body {
+	background-color: #ff4d4d;
+}
+
+ul {  list-style-type: none;
+
+}
+
+.navBar {
+	font-family: sans-serif;
+	text-decoration: none;
+	color: white;
+	display: block;
+	height: auto;
+	width: auto;
+	padding: 8px;
+	background-color: #ff5c33;
+}
+
+li {
+	text-decoration: none;
+	float: left;
+	position: relative;
+	left: 10%;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	font-family: sans-serif;
+	position: fixed;
+	left: 10%;
+	bottom: 85%;
+	color: red;
+}
+
+p {
+	font-family: sans-serif;
+	position: fixed;
+	left: 10%;
+	bottom: 84%;
+	color: black;
+}
