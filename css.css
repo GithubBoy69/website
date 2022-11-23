@@ -1,20 +1,20 @@
 body {
-	background-color: #ff4d4d;
+	background-color: #66a3ff;
 }
 
-ul {  list-style-type: none;
-
+ul {  
+	list-style-type: none;
 }
 
 .navBar {
 	font-family: sans-serif;
 	text-decoration: none;
-	color: white;
+	color: #ffffff;
 	display: block;
 	height: auto;
 	width: auto;
 	padding: 8px;
-	background-color: #ff5c33;
+	background-color: #0099ff;
 }
 
 li {
@@ -26,6 +26,7 @@ li {
 
 ul {
 	list-style-type: none;
+	text-decoration: none;
 	margin: 0;
 	padding: 0;
 }
@@ -44,4 +45,8 @@ p {
 	left: 10%;
 	bottom: 84%;
 	color: black;
+}
+
+.navBar:hover {
+	background-color: #0000ff;
 }

@@ -1,0 +1,12 @@
+body {
+    background-color: #66a3ff;
+}
+
+h1 {
+    font-family: sans-serif;
+    position: fixed;
+    left: 10%;
+    bottom: 85%;
+    color: red;
+    text-shadow: 2px 2px;
+}
